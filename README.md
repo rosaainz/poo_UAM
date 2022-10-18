@@ -1,4 +1,4 @@
-###Laboratorio de POO - UAM
+# Laboratorio de POO - UAM
 
 ### Practica 1
 <p>
