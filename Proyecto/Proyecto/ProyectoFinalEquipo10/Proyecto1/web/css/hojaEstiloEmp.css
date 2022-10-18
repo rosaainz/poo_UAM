@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27/09/2022, 06:07:41 AM
+    Author     : Arturo
+*/
+
+table{
+    color:  white;
+    background-color: black;
+}
+
+body  {
+ 
+ background-image:
+  url(https://previews.123rf.com/images/ssstocker/ssstocker1605/ssstocker160500072/57502643-equipo-m%C3%A9dico-grupo-de-trabajadores-del-hospital-ilustraci%C3%B3n.jpg?fj=1);
+ background-position: top;
+ background-size: 1660px 700px;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+
+}

@@ -1,0 +1,68 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17/09/2022, 04:12:37 AM
+    Author     : Arturo
+*/
+
+h1{
+    font-size: 50pt;
+    margin-top: 0;
+    background-color: gainsboro;
+}
+
+img{vertical-align: middle}
+
+ul {
+    padding: 0;
+    width: 90%;
+    margin-left: 105pt;
+    margin-top: 0;
+    }
+
+    li{
+    display: inline;
+    }
+
+    a{
+    outline: none;
+    text-decoration: none;
+    display: inline-block;
+    width: 19.5%;
+    margin-right: 0.625%;
+    text-align: center;
+    line-height: 3;
+    color: black;
+    font-family: inherit;
+    
+    }
+
+    li:last-child a {
+    margin-right: 0;
+    }
+
+    a:link, a:visited, a:focus {
+    background: #3BDEFF;
+    }
+
+    a:hover {
+     background: red;
+    }
+
+    a:active {
+     background: transparent;
+     color: white;
+    }
+body  {
+ 
+ background-image:
+  url(https://www.medicasur.com.mx/work/models/ms/Resource/8820/1/images/medica_sur-3.jpg);
+ background-position: bottom;
+ background-size: 1360px 570px;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+
+}

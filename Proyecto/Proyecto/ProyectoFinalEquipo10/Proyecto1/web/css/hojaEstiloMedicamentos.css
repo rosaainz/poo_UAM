@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27/09/2022, 02:27:30 AM
+    Author     : Arturo
+*/
+
+body{
+    background-color: skyblue;
+    
+}
+
+h1{
+    background-color: gainsboro;
+    color: black;
+}
+
+table{
+    
+border-radius: 10px;
+}
+
+fieldset{
+background-color: #f4f1ed ;
+color: maroon;
+border-color: darkslategrey;
+border: 9px groove (internal value);
+border-radius: 10px;
+width: 1200px
+}
+
+legend{
+color: black;
+font-weight: bold;
+font-size: 20pt;
+
+}

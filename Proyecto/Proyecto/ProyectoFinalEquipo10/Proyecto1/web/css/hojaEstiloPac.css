@@ -1,0 +1,24 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27/09/2022, 05:58:34 AM
+    Author     : Arturo
+*/
+
+table{
+    color:  black;
+}
+
+body  {
+ 
+ background-image:
+  url(https://blogs.iadb.org/salud/wp-content/uploads/sites/15/2018/10/banner-24_1200x525-v01-01.jpg);
+ background-position: top;
+ background-size: 2660px 700px;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+
+}

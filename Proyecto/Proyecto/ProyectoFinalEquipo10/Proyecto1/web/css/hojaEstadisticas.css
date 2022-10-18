@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27/09/2022, 02:06:08 AM
+    Author     : Arturo
+*/
+
+body{
+    background-image:
+  url(https://developingthebusiness.com/wp-content/uploads/2018/05/Estadisticas-de-ventas.jpg);
+ background-position: top;
+ background-size: 1660px 700px;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+}
+h1{
+    color: white;
+}
+table{
+border-radius: 10px;
+background-color: white;
+color: black;
+
+}
