@@ -1,4 +1,4 @@
-#Laboratorio de POO - UAM
+###Laboratorio de POO - UAM
 
 ### Practica 1
 <p>
@@ -7,6 +7,7 @@
 ·Implementar constructores de clases
 en Java.
 </p>
+
 ### Practica 2
 <p>
 Uso de herramientas CASE
